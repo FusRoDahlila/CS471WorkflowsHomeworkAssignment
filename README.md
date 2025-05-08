@@ -1,5 +1,5 @@
 # Beth Commits for HW 7 Part 2:
-- First commit
+- First commit*
 - Second commit
 - Third commit
 
