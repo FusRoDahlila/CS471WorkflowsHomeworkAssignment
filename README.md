@@ -1,6 +1,6 @@
 # Beth Commits for HW 7 Part 2:
 - First commit*
-- Second commit
+- Second commit*
 - Third commit
 
 # Workflows and Integration Strategies
