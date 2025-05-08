@@ -1,5 +1,6 @@
 # Beth Commits for HW 7 Part 2:
 - First commit
+- Second commit
 
 # Workflows and Integration Strategies
 This assignment will incentivize you to get familiar with the different GitHub workflow strategies for:
